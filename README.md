@@ -1,5 +1,5 @@
 # SmartBrain - v3
-Final project for ZTM course
+Final project for Zero To Mastery course on Web Dev
 
 
 1. Clone this repo
